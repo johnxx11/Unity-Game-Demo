@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a78bb50eaf379844b57f03dc3960ba4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DisSound: {instanceID: 0}
+  - gone: {instanceID: 0}
+  - Die: {instanceID: 0}
+  - damage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
